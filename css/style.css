@@ -35,6 +35,13 @@ h2 {
 .navbar.navbar-1 .navbar-toggler-icon {
   background-image: url("https://mdbootstrap.com/img/svg/hamburger6.svg?color=000"); }
 
+.nav-link {
+  text-align: center;
+  margin-left: 40%;
+  margin-right: 40%; }
+  .nav-link:hover {
+    background: var(--lightest-blue); }
+
 .logo {
   max-width: 30px; }
 
