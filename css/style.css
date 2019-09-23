@@ -141,5 +141,8 @@ li {
   background: #034568bb;
   border-radius: 3px;
   animation: shadow-pulse 1s 3; }
+  .pulse a {
+    text-decoration: none;
+    color: #fff; }
 
 /*# sourceMappingURL=style.css.map */
