@@ -42,7 +42,8 @@ h3, h4 {
   color: var(--main-blue);
   text-align: center;
   padding: 0;
-  margin-bottom: 2rem; }
+  margin-bottom: 2rem;
+  margin-top: 2rem; }
 
 section#abilities, section#contact {
   background-color: var(--bg-blue); }
@@ -128,17 +129,16 @@ li {
 
 .pulse {
   position: relative;
-  left: 40%;
-  top: 50%;
-  margin: 75px 40px 0 40px;
-  width: 200px;
+  top: 60%;
+  margin: auto auto;
+  width: 220px;
   height: 60px;
   font: 13px/60px 'Barlow Semi Condensed', sans-serif;
   text-transform: uppercase;
   letter-spacing: 1px;
   color: #fff;
   text-align: center;
-  background: rgba(28, 120, 163, 0.6);
+  background: #034568bb;
   border-radius: 3px;
   animation: shadow-pulse 1s 3; }
 
